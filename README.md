@@ -18,7 +18,7 @@ User Access: End-users can access the deployed application in the production env
 --     Jenkins
 --    /       \
 --   v         v
-Code-Analysis    Docker
+--             Docker
 -- SonarQube     |
                  v
                   Deployment
