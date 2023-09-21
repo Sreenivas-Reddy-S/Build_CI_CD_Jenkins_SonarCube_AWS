@@ -9,20 +9,5 @@
 - Docker Build: Jenkins builds a Docker container image containing the application and dependencies.
 User Access: End-users can access the deployed application in the production environment.
 
--- Developer's Code
---     |
---     v
--- GitHub Repository
---     |
---     v
---     Jenkins
---    /       \
---   v         v
---             Docker
--- SonarQube     |
-                 v
-                  Deployment
-                    |
-                    v
-                  End Users
+
 
