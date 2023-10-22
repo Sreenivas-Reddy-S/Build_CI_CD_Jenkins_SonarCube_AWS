@@ -1,6 +1,6 @@
 # Build_CI_CD_Jenkins_SonarCube_AWS
 
-- Developer writes code and pushes it to a GitHub Repository.
+- Wrote code and pushed it to a GitHub Repository.
 - GitHub Webhook notifies Jenkins Server of the code changes.
 - Jenkins initiates the CI/CD pipeline:
 - Checkout Code: Jenkins checks out the latest code from the GitHub repository.
